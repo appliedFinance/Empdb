@@ -1,3 +1,5 @@
+// SERVER
+//
 'use strict';
 const say = (s) => { console.log(s); };
 const express = require('express');
